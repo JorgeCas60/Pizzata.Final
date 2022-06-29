@@ -1,5 +1,4 @@
 
-<?php include_once('layouts/header.php'); ?>
 <div class="login-page">
     <div class="text-center">
        <h1>Bienvenido</h1>
